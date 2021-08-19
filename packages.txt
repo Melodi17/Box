@@ -1,1 +1,1 @@
-test https://github.com/Melodi17/Box/blob/main/Core-Packages/test.box
+test https://raw.githubusercontent.com/Melodi17/Box/main/Core-Packages/test.box
