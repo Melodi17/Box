@@ -2,7 +2,7 @@
   "Name": "template",
   "Author": "Box",
   "Components": [
-    "C:\Users\melod\repos\Bomb\Bomb\bin\Debug\net5.0\output.txt"
+    "C:\\Users\\melod\\repos\\Bomb\\Bomb\\bin\\Debug\\net5.0\\output.txt"
   ],
   "Dependencies": [
 
