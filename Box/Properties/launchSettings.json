@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Box": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    }
+  }
+}
